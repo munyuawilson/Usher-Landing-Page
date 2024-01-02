@@ -13,4 +13,18 @@ body {
           mask: var(--mask);
 }
 
+.col {
+  display: flex;
+  align-items: center; /* Align items vertically in the center */
+}
+
+.float-left {
+  margin-right: 10px; /* Adjust the margin as needed */
+}
+
+.content-wrapper {
+  flex-grow: 1; /* Allow the content to take up the remaining space */
+}
+
+
   
