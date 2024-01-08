@@ -27,9 +27,6 @@ body {
 }
 
 
-.h:hover{
-  color: orangered;
-}
 .box2{
   --mask:
     radial-gradient(36.62px at 50% 51.00px,#000 99%,#0000 101%) calc(50% - 60px) 0/120px 100%,
